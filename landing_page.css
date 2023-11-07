@@ -29,6 +29,13 @@ header a.menu-items:hover::after {
     width: 100%;
     cursor: pointer;
 }
+header #head-title {
+    font-size: 40px;
+    font-weight: 600;
+    color: #C53678;
+    cursor: pointer;
+    text-decoration: none;
+}
 * {
     margin: 0;
     padding: 0;
